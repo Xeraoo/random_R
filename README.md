@@ -1,4 +1,4 @@
-# random_R
+# Random R
 
 This repository contains a collection of random R scripts that I've come across or written during my journey of learning R programming. The scripts cover a wide range of topics, from basic data manipulation and visualization to more advanced statistical techniques. Each script serves as a small learning experiment, practice session, or exploration of a specific problem in R.
 
